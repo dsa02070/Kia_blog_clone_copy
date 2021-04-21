@@ -3,4 +3,4 @@
 
 build : html, css
 
-explain : fluid 방식의 홈페이지 제작
+explain : fluid 방식의 홈페이지 제작.
